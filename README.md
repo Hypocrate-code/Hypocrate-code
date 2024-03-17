@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hypocrate-code&label=Profile%20views&color=0e75b6&style=flat" alt="hypocrate-code" /> </p>
 
-- 🔭 I’m currently working on [HypLoad](https://github.com/Hypocrate-code/HypLoad)
+- 🔭 I’m currently working on [Tars, my open source with customisable personnality voice assistant](https://github.com/Hypocrate-code/Voice_Assistant_Tars)
 
 - 🌱 I’m currently learning **Node JS, React JS and C#**
 
