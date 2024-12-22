@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on my portfolio, don't wait and visit my repos !
 
-- 🌱 I’m currently learning **Node JS, React JS and Next JS**
+- 🌱 I’m currently learning **Node JS, C#**
 
-- 💬 Ask me about **Python, Javascript, HTML & CSS**
+- 💬 Ask me about **Python, React JS, Next JS, Javascript or HTML & CSS**
 
 - 📫 How to reach me **thibaut.alvoet.pro@gmail.com**
 
