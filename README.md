@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Hypocrate (Thibaut Alvoet)</h1>
-<h3 align="center">A young french creator, developer of projects.</h3>
+<h1 align="center">Hi 👋, I'm Hypocrate - Thibaut Alvoet</h1>
+<h3 align="center">French creator, full of curiosity.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hypocrate-code&label=Profile%20views&color=0e75b6&style=flat" alt="hypocrate-code" /> </p>
 
-- 🔭 I’m currently working on my portfolio, don't wait and visit my repos !
+- 🔭 I’m currently working on my software <a href="https://github.com/Hypocrate-code/HypLoad">HypLoad</a>, as well as a computer version of the board game <a href="https://github.com/Hypocrate-code/portfolio">Akropolis</a>, and my <a href="https://github.com/Hypocrate-code/portfolio">portfolio</a>.
+  
+- 🌱 I’m currently learning **C++**
 
-- 🌱 I’m currently learning **Node JS, C#**
+- 💬 Ask me about **Python, React JS, Next JS, Javascript or HTML & CSS, C**
 
-- 💬 Ask me about **Python, React JS, Next JS, Javascript or HTML & CSS**
+- 📫 Reach me on **thibaut.alvoet.pro@gmail.com**
 
-- 📫 How to reach me **thibaut.alvoet.pro@gmail.com**
-
-- ⚡ Fun fact **I wanna learn everything this world has to offer**
+- ⚡ Fun fact : **I get bald every autumn, just like trees loosing their leaves**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
