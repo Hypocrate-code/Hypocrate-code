@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hypocrate - Thibaut Alvoet</h1>
+<h1 align="center">Hi 👋, I'm Hypocrate - Thibaut Alvoët</h1>
 <h3 align="center">French creator, full of curiosity.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hypocrate-code&label=Profile%20views&color=0e75b6&style=flat" alt="hypocrate-code" /> </p>
